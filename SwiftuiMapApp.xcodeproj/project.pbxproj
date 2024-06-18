@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1563C0A72C220EAF00E121D9 /* LocationMapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1563C0A62C220EAF00E121D9 /* LocationMapAnnotationView.swift */; };
 		15682B1F2C19D8AA00160C1D /* SwiftuiMapAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15682B1E2C19D8AA00160C1D /* SwiftuiMapAppApp.swift */; };
 		15682B212C19D8AA00160C1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15682B202C19D8AA00160C1D /* ContentView.swift */; };
 		15682B262C19D8AC00160C1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15682B252C19D8AC00160C1D /* Preview Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1563C0A62C220EAF00E121D9 /* LocationMapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationMapAnnotationView.swift; sourceTree = "<group>"; };
 		15682B1B2C19D8AA00160C1D /* SwiftuiMapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftuiMapApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15682B1E2C19D8AA00160C1D /* SwiftuiMapAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftuiMapAppApp.swift; sourceTree = "<group>"; };
 		15682B202C19D8AA00160C1D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				15682B362C19F39E00160C1D /* LocationsView.swift */,
 				15682B3A2C1B34EF00160C1D /* LocationListView.swift */,
 				15682B3C2C1F86B900160C1D /* LocationPreviewView.swift */,
+				1563C0A62C220EAF00E121D9 /* LocationMapAnnotationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15682B352C19E75D00160C1D /* LocationsDataService.swift in Sources */,
+				1563C0A72C220EAF00E121D9 /* LocationMapAnnotationView.swift in Sources */,
 				15682B392C1A33ED00160C1D /* LocationsViewModel.swift in Sources */,
 				15682B3D2C1F86B900160C1D /* LocationPreviewView.swift in Sources */,
 				15682B212C19D8AA00160C1D /* ContentView.swift in Sources */,
